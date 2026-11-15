@@ -9,8 +9,10 @@ python3 -m http.server 3000 --bind 127.0.0.1
 
 Open the server on port 3000. Case studies: `/work/memomed/`, `/work/motonide/`, `/work/veyra/`.
 
-All UI artwork is original HTML/CSS/SVG and explicitly illustrative. Veyra figures are fictional. Project facts come from the supplied brief and CV; the brief's updated Motonide figures take precedence. The original downloadable CV retains its earlier figures. No customer quotes, conversion results or research findings have been invented.
+The four pages, styling, seven authentic project screenshots and original CV come from the approved `portfolio-completo.html` supplied by Gregory. Embedded assets were extracted without changing their bytes. Screenshot sources, the capture date recorded in the approved preview, dimensions and SHA-256 checksums are in `public/screenshots/sources.json`.
+
+MemoMed screenshots show its public commercial website. Motonide screenshots show discovery, comparison and availability requests to professional rental operators; they do not demonstrate payments or confirmed bookings. The historical venture figures are 800 users and 150 motorcycles. The original CV retains its earlier figures, as disclosed on the site. Veyra is an independent concept with fictional demo data and names. No customer quotes, conversion results or research findings have been invented.
 
 Theme follows system preference until explicitly selected, then persists locally. Mobile navigation supports Escape. Reduced-motion preferences are respected. External links open separately with noopener.
 
-No public deployment has been made. The inspiration site could not be accessed because the environment proxy refused connections.
+Hosting is configured for Vercel through `vercel.json`: static files served from the repository root, with no build step. The standalone preview is not part of the deployed source.

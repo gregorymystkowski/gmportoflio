@@ -1,0 +1,82 @@
+{
+  "source_document": "portfolio-completo.html",
+  "screenshots": [
+    {
+      "file": "/public/screenshots/memomed-home.webp",
+      "project": "memomed",
+      "screen": "home",
+      "source_url": "https://memomed.it/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "7f0adb7eba76db110463eb974e4c2981d6a5d65963137ddd5f56e1f00888a057",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "/public/screenshots/memomed-how-it-works.webp",
+      "project": "memomed",
+      "screen": "how-it-works",
+      "source_url": "https://memomed.it/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "38b67755bfa59080b1f7950beac6104fe5e90257962bfa81cffe83f85671ec51",
+      "width": 1120,
+      "height": 2182
+    },
+    {
+      "file": "/public/screenshots/motonide-home.webp",
+      "project": "motonide",
+      "screen": "home",
+      "source_url": "https://motonide-product-design-git-feat-auth-profile-gregorymystkowski.vercel.app/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "c2e82f178de06717b0dcb19bdea37d8e318bcb483a65f356cd40460b4c26b211",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "/public/screenshots/motonide-catalog.webp",
+      "project": "motonide",
+      "screen": "catalog",
+      "source_url": "https://motonide-product-design-git-feat-auth-profile-gregorymystkowski.vercel.app/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "d70fc7d66f6a9b30b283ae2657b39aa5c72f6d5f693005d4e6f4a04aba1d3e67",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "/public/screenshots/motonide-detail.webp",
+      "project": "motonide",
+      "screen": "detail",
+      "source_url": "https://motonide-product-design-git-feat-auth-profile-gregorymystkowski.vercel.app/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "0787f329841d8cfd97a6c4a053532b8666b1b24878ceeaab29b9dbf449308bf8",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "/public/screenshots/veyra-overview.webp",
+      "project": "veyra",
+      "screen": "overview",
+      "source_url": "https://veyra-revenue-intelligence.vercel.app/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "0fe08a558cc5cacb5375975621c1299cd12a9eb5e6e2147d3f8c348e66a38edb",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "/public/screenshots/veyra-revenue-explorer.webp",
+      "project": "veyra",
+      "screen": "revenue-explorer",
+      "source_url": "https://veyra-revenue-intelligence.vercel.app/",
+      "captured_date": "2026-11-07",
+      "provenance": "Embedded screenshot extracted unchanged from user-supplied portfolio-completo.html",
+      "sha256": "815b0b8cb49c6ead357a3691f0fb350405a6d0c05b0611159309b2401b6f61ed",
+      "width": 1440,
+      "height": 1000
+    }
+  ]
+}
