@@ -16,3 +16,5 @@ MemoMed screenshots show its public commercial website. Motonide screenshots sho
 Theme follows system preference until explicitly selected, then persists locally. Mobile navigation supports Escape. Reduced-motion preferences are respected. External links open separately with noopener.
 
 Hosting is configured for Vercel through `vercel.json`: static files served from the repository root, with no build step. The standalone preview is not part of the deployed source.
+
+English pages remain at `/`; Italian pages are under `/it/`, including all three case studies. The circular UK/Italy flag shows the current language and switches to the corresponding page in the other language, retaining the anchor and theme. Explicit language selection persists locally; English is the default. Both versions share the original screenshots and CV.
