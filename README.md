@@ -22,3 +22,5 @@ English pages remain at `/`; Italian pages are under `/it/`, including all three
 MemoMed is the featured project on both homepages, with a direct hero link and featured label. The downloadable one-page CV gives MemoMed the main project and experience section, links to its case study and public product, and lists Veyra as an additional concept.
 
 The owner confirmed the LinkedIn figures (1,000+ registered users and 300+ motorcycle listings) as the figures to use across the portfolio and CV. Both MemoMed and Motonide retain Founder in their role titles.
+
+Both MemoMed and Motonide use the title Founder & Product Design Lead, with descriptions focused on user journeys, interface design and iteration.
